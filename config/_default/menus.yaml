@@ -1,0 +1,62 @@
+leftnav:
+- identifier: 63c57ad1-d263-e24b-eb18-c816c609fd2a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: bd64137f-b95c-7f3f-ff95-0b4632b6f2ff
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 6cc29a02-786f-cd02-3c7e-721b29770e51
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: b1bdde6c-ff07-cbbd-9750-5873febcd368
+  name: Learning to Think Like an Economist
+  pageRef: /pages/instructor-insights/learning-to-think-like-an-economist
+  parent: 6cc29a02-786f-cd02-3c7e-721b29770e51
+  weight: 40
+- identifier: fecc3465-d35c-aa83-16e3-e5cd9aae3bf8
+  name: Offering Multiple Tools for Mastery
+  pageRef: /pages/instructor-insights/offering-multiple-tools-for-mastery
+  parent: 6cc29a02-786f-cd02-3c7e-721b29770e51
+  weight: 50
+- identifier: b54c8f02-fe71-58f1-ae5b-8ed7ea1a53b8
+  name: Common Misconceptions about Economics
+  pageRef: /pages/instructor-insights/common-misconceptions-about-economics
+  parent: 6cc29a02-786f-cd02-3c7e-721b29770e51
+  weight: 60
+- identifier: edbb8212-9417-de92-1df5-aa8da4242227
+  name: A Roundabout Path to Labor Economics
+  pageRef: /pages/instructor-insights/a-roundabout-path-to-labor-economics
+  parent: 6cc29a02-786f-cd02-3c7e-721b29770e51
+  weight: 70
+- identifier: 64c8295e-7e7b-86a4-deea-ff6eb9495eb4
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: f27a70b4-7bee-6919-9421-d31f0705bfa3
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 90
+- identifier: 74c3d92d-d97c-052f-9202-28181ad3045e
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 100
+- identifier: 18f55944-17fd-c178-73f7-801714afe822
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 110
+- identifier: a4b9d9c8-71a8-ef06-b762-8cae319cfd85
+  name: Practice Problems
+  pageRef: /pages/assignments/practice-problems
+  parent: 18f55944-17fd-c178-73f7-801714afe822
+  weight: 120
+- identifier: d5969157-7d1a-475b-5cbd-f152b4fca906
+  name: Exams
+  pageRef: /pages/exams
+  weight: 130
+- identifier: c45992ec-3c4f-f880-22bf-297fe9f4e70d
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 140
