@@ -5,6 +5,8 @@ description: This file contains information regarding applying consumer theory t
 file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/f804a92517d12e1e354415d76191c768_MIT14_03F16_lec8Part1.pdf
 file_size: 292652
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

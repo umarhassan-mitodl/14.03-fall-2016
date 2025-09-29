@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains details about the course such as the meeting times,
   readings, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,9 +27,9 @@ Recommended Books
 
 For for the first time ever, I'm pleased to include two new texts on the syllabus. Both are lucid, bull-shit free, and occasionally amusing, and available in paperback.
 
-Banerjee, Samiran. _Intermediate Microeconomics: A Tool-Building Approach_. 1st ed. Routledge, 2014. ISBN: 9780415870054. \[Preview with {{% resource_link "1920821e-2e9b-477c-8eab-8bfdfa89cd38" "Google Books" %}}\]
+Banerjee, Samiran. _Intermediate Microeconomics: A Tool-Building Approach_. 1st ed. Routledge, 2014. ISBN: 9780415870054. \[Preview with [Google Books](http://books.google.com/books?id=oCiDBAAAQBAJ&pg=PAfrontcover)\]
 
-Angrist, Joshua D., and Jörn-Steffen Pischke. _Mastering 'Metrics: The Path from Cause to Effect_. Princeton University Press, 2014. ISBN: 9780691152844. \[Preview with {{% resource_link "17fdf82b-9d15-446f-9598-45a59f1e93f7" "Google Books" %}}\]
+Angrist, Joshua D., and Jörn-Steffen Pischke. _Mastering 'Metrics: The Path from Cause to Effect_. Princeton University Press, 2014. ISBN: 9780691152844. \[Preview with [Google Books](http://books.google.com/books?id=dEh-BAAAQBAJ&pg=PAfrontcover)\]
 
 Required Readings
 -----------------

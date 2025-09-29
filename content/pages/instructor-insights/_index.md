@@ -63,7 +63,7 @@ Mostly undergraduates and master’s degree students
 
 ### Breakdown by Major
 
-1/4 {{% resource_link "ecf4b3ec-8817-4b70-9c23-a978d71349e5" "Technology and Public Policy" %}} graduate program
+1/4 [Technology and Public Policy](http://tpp.mit.edu/) graduate program
 
 3/4 Other
 

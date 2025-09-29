@@ -4,6 +4,8 @@ description: This file contains information regarding math tools.
 file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/c33cb122a7b0699ae37418beb0615a51_MIT14_03F16_lec3MathTools.pdf
 file_size: 237459
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
