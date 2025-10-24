@@ -5,8 +5,6 @@ description: 'This file contains information regarding the United States sugar p
 file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/079b991cbbc1d1a840e19fd08194ea7e_MIT14_03F16_lec8Sugar.pdf
 file_size: 135347
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains details about the course such as the meeting times,
   readings, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

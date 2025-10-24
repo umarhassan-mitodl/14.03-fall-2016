@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/ff2479e46f0a64dbbfdcf93efc8f3d78_MIT14_03F16_prac_insure.pdf
 file_size: 728518
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

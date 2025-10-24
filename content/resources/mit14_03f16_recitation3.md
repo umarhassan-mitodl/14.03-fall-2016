@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-03-microeconomic-theory-and-public-policy-fall-2016/d4e4584aa59f983115c3f25cac411e6e_MIT14_03F16_Recitation3.pdf
 file_size: 189315
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

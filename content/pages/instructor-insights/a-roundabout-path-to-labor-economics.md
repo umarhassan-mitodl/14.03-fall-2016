@@ -3,8 +3,6 @@ content_type: page
 description: 'In this section, Professor David Autor shares his non-linear path toward
   teaching economics at MIT and what it is about economics that helps him answer the
   types of questions that mean the most to him. '
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

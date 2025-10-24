@@ -3,8 +3,6 @@ content_type: page
 description: 'In this section, Professor David Autor shares his multi-pronged strategy
   for supporting students in mastering the content of 14.03 Microeconomic Theory and
   Public Policy. '
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
