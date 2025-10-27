@@ -9,9 +9,9 @@ ocw_type: CourseSection
 title: Readings
 uid: 64c8295e-7e7b-86a4-deea-ff6eb9495eb4
 ---
-\[Banerjee\] = Banerjee, Samiran. *Intermediate Microeconomics: A Tool-Building Approach*. 1st ed. Routledge, 2014. ISBN: 9780415870054. \[Preview with [Google Books](http://books.google.com/books?id=oCiDBAAAQBAJ&pg=PAfrontcover)\]
+\[Banerjee\] = Banerjee, Samiran. *Intermediate Microeconomics: A Tool-Building Approach*. 1st ed. Routledge, 2014. ISBN: 9780415870054. \[Preview with {{% resource_link "6f769100-3cb7-468c-befa-959b9e681fbf" "Google Books" %}}\]
 
-\[Mastering\] = Angrist, Joshua D., and Jörn-Steffen Pischke. *Mastering 'Metrics: The Path from Cause to Effect*. Princeton University Press, 2014. ISBN: 9780691152844. \[Preview with [Google Books](http://books.google.com/books?id=dEh-BAAAQBAJ&pg=PAfrontcover)\]
+\[Mastering\] = Angrist, Joshua D., and Jörn-Steffen Pischke. *Mastering 'Metrics: The Path from Cause to Effect*. Princeton University Press, 2014. ISBN: 9780691152844. \[Preview with {{% resource_link "c9beec25-51ad-4169-980a-bc835c287ad9" "Google Books" %}}\]
 
 Note: If a reading is marked with an \*, you are responsible for preparing the paper prior to class.
 
@@ -45,7 +45,7 @@ READINGS
 
 ### Recommended Reading
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611350) Krugman, Paul. *Development, Geography, and Economic Theory*. MIT Press, 1997. ISBN: 9780262611350. \[Preview with [Google Books](http://books.google.com/books?id=Pm_oAg_1UxIC&pg=PAfrontcover)\]
+{{% resource_link "97f4ef4a-9d5c-4322-81ba-ac7ff00fd211" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Krugman, Paul. *Development, Geography, and Economic Theory*. MIT Press, 1997. ISBN: 9780262611350. \[Preview with {{% resource_link "9cd0a757-59ee-4a84-b1f2-21bee7b9334b" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -63,19 +63,19 @@ READINGS
 
 ### Required Reading
 
-\*Card, David, and Alan B. Krueger. "[Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](http://www.jstor.org/stable/2118030)." *The American Economic Review* 84, no. 4 (1994): 772–93.
+\*Card, David, and Alan B. Krueger. "{{% resource_link "3dbb7401-9a65-46da-adb9-be7a8a533e37" "Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania" %}}." *The American Economic Review* 84, no. 4 (1994): 772–93.
 
 \[Mastering\] Chapter 1: Randomized Trials.
 
-Dugger, Celia W. "[Wage Laws Squeeze South Africa's Poor](http://www.nytimes.com/2010/09/27/world/africa/27safrica.html)." *The New York Times*, September 26, 2010.
+Dugger, Celia W. "{{% resource_link "a6dc221f-4030-4a25-a50c-ad60b876f460" "Wage Laws Squeeze South Africa's Poor" %}}." *The New York Times*, September 26, 2010.
 
-Dube, Arindrajit. "[The Minimum We Can Do](https://opinionator.blogs.nytimes.com/2013/11/30/the-minimum-we-can-do/)." *The New York Times*, November 30, 2013.
+Dube, Arindrajit. "{{% resource_link "2953599e-d9a7-4609-8126-6b26a5cf130c" "The Minimum We Can Do" %}}." *The New York Times*, November 30, 2013.
 
 Neumark, David. "Who Really Gets the Minimum Wage." *The Wall Street Journal*, July 6, 2014.
 
 ### Recommended Reading
 
-Holland, Paul W. "[Statistics and Causal Inference](http://www.jstor.org/stable/2289064)." *Journal of the American Statistical Association* 81, no. 396 (1986): 945–60.
+Holland, Paul W. "{{% resource_link "a3e2e098-143d-45ee-abb3-a83f1a0727e0" "Statistics and Causal Inference" %}}." *Journal of the American Statistical Association* 81, no. 396 (1986): 945–60.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -137,15 +137,15 @@ Holland, Paul W. "[Statistics and Causal Inference](http://www.jstor.org/stable/
 
 ### Required Reading
 
-\*Waldfogel, Joel. "[The Deadweight Loss of Christmas](https://www.jstor.org/stable/2117564)." *The American Economic Review* 83, no. 5 (1983): 1328–36.
+\*Waldfogel, Joel. "{{% resource_link "3d5a5809-9702-4604-9eb8-0bbf3be9bc98" "The Deadweight Loss of Christmas" %}}." *The American Economic Review* 83, no. 5 (1983): 1328–36.
 
-Thompson, Derek. "[If Economists Wrote Christmas Cards](https://www.theatlantic.com/business/archive/2013/12/if-economists-wrote-christmas-cards/282493/)." *The Atlantic*, December 2013, 1–4.
+Thompson, Derek. "{{% resource_link "c4121ed3-1558-471f-81ad-cb273d9f5ba5" "If Economists Wrote Christmas Cards" %}}." *The Atlantic*, December 2013, 1–4.
 
 ### Recommended Reading
 
-Blattman, Chrisopther, Nathan Fiala, and Sebastian Martinez. "[Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda](http://dx.doi.org/10.1093/qje/qjt057)." *The Quarterly Journal of Economics* 129, no. 2 (2014): 697–752.
+Blattman, Chrisopther, Nathan Fiala, and Sebastian Martinez. "{{% resource_link "af55dc3f-21ad-483e-8af4-0653919639d9" "Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda" %}}." *The Quarterly Journal of Economics* 129, no. 2 (2014): 697–752.
 
-Haushofer, Johannes, and Jeremy Shapiro. "[The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya](http://dx.doi.org/10.1093/qje/qjw025)." *The Quarterly Journal of Economics* 131, no. 4 (2016): 1973–2042.
+Haushofer, Johannes, and Jeremy Shapiro. "{{% resource_link "da3088fb-94c0-4ef5-a288-e64d1795125a" "The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya" %}}." *The Quarterly Journal of Economics* 131, no. 4 (2016): 1973–2042.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -180,9 +180,9 @@ Haushofer, Johannes, and Jeremy Shapiro. "[The Short-Term Impact of Unconditiona
 
 \[Banerjee\] Chapter 5.1: Consumer Comparative Statics: Price and Income Consumption Curves.
 
-Williamson, Kevin D. "[The White Ghetto](http://www.nationalreview.com/article/367903/white-ghetto-kevin-d-williamson)." *National Review*, December 2013, 1–10.
+Williamson, Kevin D. "{{% resource_link "5ee119af-9829-4d36-80c7-8db6d3376631" "The White Ghetto" %}}." *National Review*, December 2013, 1–10.
 
-\*Eissa, Nada, and Jeffrey B. Liebman. "[Labor Supply Response to the Earned Income Tax Credit](https://doi.org/10.2307/2946689)." *The Quarterly Journal of Economics* 111, no. 2 (1996): 605–37.
+\*Eissa, Nada, and Jeffrey B. Liebman. "{{% resource_link "f6dbb765-5e1b-4ebe-928a-530c8d2b9c26" "Labor Supply Response to the Earned Income Tax Credit" %}}." *The Quarterly Journal of Economics* 111, no. 2 (1996): 605–37.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -199,7 +199,7 @@ Williamson, Kevin D. "[The White Ghetto](http://www.nationalreview.com/article/3
 
 \[Banerjee\] Chapter 5.3: Consumer Comparative Statics: Decomposing Price Effects.
 
-\*Jensen, Robert, and Nolan Miller. "[Giffen Behavior and Subsistence Consumption](https://www.aeaweb.org/articles?id=10.1257/aer.98.4.1553)." *American Economic Review* 98, no. 4 (2008): 1553–77.
+\*Jensen, Robert, and Nolan Miller. "{{% resource_link "77e217b7-afc6-488c-9c6f-67936002c219" "Giffen Behavior and Subsistence Consumption" %}}." *American Economic Review* 98, no. 4 (2008): 1553–77.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -226,9 +226,9 @@ No readings
 
 \*Scherer, Fredric M. "The U.S. Sugar Program." Harvard Kennedy School, Case 1128.0, 1992.
 
-Editorial. "[America's Sugar Daddies](http://www.nytimes.com/2003/11/29/opinion/america-s-sugar-daddies.html)." *The New York Times,* November 29, 2003.
+Editorial. "{{% resource_link "0e7bee2e-da66-4f66-8215-8c1ca0ebcc16" "America's Sugar Daddies" %}}." *The New York Times,* November 29, 2003.
 
-Malkin, Elizabeth. "[In Mexico, Sugar vs. U.S. Corn Syrup](http://www.nytimes.com/2004/06/09/business/in-mexico-sugar-vs-us-corn-syrup.html?_r=0)." *The New York Times*, June 9, 2004.
+Malkin, Elizabeth. "{{% resource_link "25b28ac0-a510-42a9-9089-84c653fb1797" "In Mexico, Sugar vs. U.S. Corn Syrup" %}}." *The New York Times*, June 9, 2004.
 
 American Sugar Alliance. "Trade Talks in Works Could Devastate U.S. Sugar Industry." October 21, 2003.
 
@@ -246,7 +246,7 @@ Applied Competitive Analysis: A Second Application
 
 ### Required Reading
 
-\*Hsieh, Chang-Tai, and Enrico Moretti. ["Can Free Be Inefficient? Fixed Commissions and Social Waste in the Real Estate Industry." (PDF)](http://www.nber.org/papers/w9208.pdf) *Journal of Political Economy* 111, no. 5 (2003): 1076–122. (NBER Working Paper no. 9208)
+\*Hsieh, Chang-Tai, and Enrico Moretti. {{% resource_link "56ebf04a-dcd6-4dcc-aa88-4e3164b04bb1" "\"Can Free Be Inefficient? Fixed Commissions and Social Waste in the Real Estate Industry.\" (PDF)" %}} *Journal of Political Economy* 111, no. 5 (2003): 1076–122. (NBER Working Paper no. 9208)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part IV. Putting Markets Together: General Equilibrium, Exchange, and International Trade**
@@ -279,7 +279,7 @@ The principle of arbitage
 
 ### Required Reading
 
-\*Jensen, Robert. "[The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector](https://academic.oup.com/qje/article-abstract/122/3/879/1879540/The-Digital-Provide-Information-Technology-Market?redirectedFrom=fulltext)." *The Quarterly Journal of Economics* 122, no. 3 (2007): 879–924.
+\*Jensen, Robert. "{{% resource_link "f4e1eadf-b646-4249-a43c-b0b9afd6356c" "The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector" %}}." *The Quarterly Journal of Economics* 122, no. 3 (2007): 879–924.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -296,9 +296,9 @@ The principle of arbitage
 
 ### Recommended Reading
 
-Krugman, Paul. "[The Accidental Theorist](http://www.slate.com/articles/business/the_dismal_science/1997/01/the_accidental_theorist.html)." *Slate*, January 1997.
+Krugman, Paul. "{{% resource_link "fbd3c1d6-66f4-44c1-a4fb-a3c7289834d3" "The Accidental Theorist" %}}." *Slate*, January 1997.
 
-Kristof, Nicholas D. "[Let Them Sweat](http://www.nytimes.com/2002/06/25/opinion/let-them-sweat.html)." *The New York Times*, June 25, 2002. (Section A)
+Kristof, Nicholas D. "{{% resource_link "4f7bd20f-05ab-4cbe-a63c-0153f5d9eac6" "Let Them Sweat" %}}." *The New York Times*, June 25, 2002. (Section A)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -315,7 +315,7 @@ Kristof, Nicholas D. "[Let Them Sweat](http://www.nytimes.com/2002/06/25/opinion
 
 \[Mastering\] Chapter 3: Instrumental Variables.
 
-\*Feyrer, James. "[Trade and Income: Exploiting Time Series in Geography](http://www.nber.org/papers/w14910)." *NBER* Working Paper No. 14910, 2009.
+\*Feyrer, James. "{{% resource_link "8bf32442-1ee6-4ffd-b04f-90b12c3cd96a" "Trade and Income: Exploiting Time Series in Geography" %}}." *NBER* Working Paper No. 14910, 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -330,13 +330,13 @@ Kristof, Nicholas D. "[Let Them Sweat](http://www.nytimes.com/2002/06/25/opinion
 
 ### Required Reading
 
-Autor, David, David Dorn, and Gordon H. Hanson. "[The China Syndrome: Local Labor Market Effects of Import Competition in the United States](https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2121)." *American Economic Review* 103, no. 6 (2013): 2121–68.
+Autor, David, David Dorn, and Gordon H. Hanson. "{{% resource_link "ac2e7095-ce26-4f71-9e45-e0d2b2c272b6" "The China Syndrome: Local Labor Market Effects of Import Competition in the United States" %}}." *American Economic Review* 103, no. 6 (2013): 2121–68.
 
 ### Recommended Reading
 
-Autor, David. "[International Trade and U.S. Worker Welfare: Understanding the Costs and Benefits](http://equitablegrowth.org/labor-markets/international-trade-and-u-s-worker-welfare-understanding-the-costs-and-benefits/)." *Washington Center for Equitable Growth*, October 31, 2016.
+Autor, David. "{{% resource_link "0c2ecfb8-3700-4b64-91cc-36139936716a" "International Trade and U.S. Worker Welfare: Understanding the Costs and Benefits" %}}." *Washington Center for Equitable Growth*, October 31, 2016.
 
-Autor, David, David Dorn, and Gordon H. Hanson. "[The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade](http://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080315-015041)." *Annual Review of Economics* 8 (2016): 205–40.
+Autor, David, David Dorn, and Gordon H. Hanson. "{{% resource_link "e8e54381-cd6a-4043-b8b6-53eb8e8631a3" "The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade" %}}." *Annual Review of Economics* 8 (2016): 205–40.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part V. Markets Are Not Perfect: Externalities**
@@ -370,7 +370,7 @@ Enforcement of property rights: The case of barbed wire fencing
 
 ### Required Reading
 
-\*Hornbeck, Richard. "[Barbed Wire: Property Rights and Agricultural Development](https://doi.org/10.1162/qjec.2010.125.2.767)." *The Quarterly Journal of Economics* 125, no. 2 (2010): 767–810.
+\*Hornbeck, Richard. "{{% resource_link "d037e688-872e-47bd-9ea7-d7e0f2ba1326" "Barbed Wire: Property Rights and Agricultural Development" %}}." *The Quarterly Journal of Economics* 125, no. 2 (2010): 767–810.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -408,13 +408,13 @@ Using revealed preference to estimate the implicit value of statistical life
 
 ### Required Reading
 
-\*Ashenfelter, Orley, and Michael Greenstone. "[Using Mandated Speed Limits to Measure the Value of a Statistical Life](http://www.jstor.org/stable/10.1086/379932)." *Journal of Political Economy* 112, no. S1 (2004): S226–7.
+\*Ashenfelter, Orley, and Michael Greenstone. "{{% resource_link "54fe1bb3-378b-4dbb-ba72-2e258cf7623b" "Using Mandated Speed Limits to Measure the Value of a Statistical Life" %}}." *Journal of Political Economy* 112, no. S1 (2004): S226–7.
 
-Newman, Thomas P., Brian D. Johnston, and David C. Grossman. "[Effects and Costs of Requiring Child-Restraint Systems for Young Children Traveling on Commercial Airplanes](https://doi.org/doi:10.1001/archpedi.157.10.969)." *Archives of Pediatric Adolescent Medicine* 157, no. 10 (2003): 969–74.
+Newman, Thomas P., Brian D. Johnston, and David C. Grossman. "{{% resource_link "36bc7dbb-113d-4e90-b190-945818b5e751" "Effects and Costs of Requiring Child-Restraint Systems for Young Children Traveling on Commercial Airplanes" %}}." *Archives of Pediatric Adolescent Medicine* 157, no. 10 (2003): 969–74.
 
 ### Recommended Reading
 
-Banzhaf, H. Spencer. "[Retrospectives: The Cold-War Origins of the Value of Statistical Life](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.213)." *Journal of Economic Perspectives* 28, no. 4 (2014): 213–26.
+Banzhaf, H. Spencer. "{{% resource_link "b132b4c7-cc50-4da0-b792-6a154431d2ab" "Retrospectives: The Cold-War Origins of the Value of Statistical Life" %}}." *Journal of Economic Perspectives* 28, no. 4 (2014): 213–26.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -447,7 +447,7 @@ Banzhaf, H. Spencer. "[Retrospectives: The Cold-War Origins of the Value of Stat
 
 \[Mastering\] Chapter 4: Regression Discontinuity Designs.
 
-\*Keys, Benjamin J., Tanmoy Mukkerjee, et al. "[Did Securitization Lead to Lax Screening? Evidence from Subprime Loans](https://doi.org/10.1162/qjec.2010.125.1.307)." *The Quarterly Journal of Economics* 125, no. 1 (2010): 307–62.
+\*Keys, Benjamin J., Tanmoy Mukkerjee, et al. "{{% resource_link "6f29b16c-6a30-4b02-b1e4-67459f48f438" "Did Securitization Lead to Lax Screening? Evidence from Subprime Loans" %}}." *The Quarterly Journal of Economics* 125, no. 1 (2010): 307–62.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part VII. Markets are Not Perfect: TMI or NEMI?**
@@ -465,7 +465,7 @@ Banzhaf, H. Spencer. "[Retrospectives: The Cold-War Origins of the Value of Stat
 
 ### Required Reading
 
-Spence, Michael. "[Job Market Signaling](http://www.jstor.org/stable/1882010)." *The Quarterly Journal of Economics* 87, no. 3 (1973): 355–74.
+Spence, Michael. "{{% resource_link "d2e63d0d-0bdc-4666-b8cf-e473f0bf8891" "Job Market Signaling" %}}." *The Quarterly Journal of Economics* 87, no. 3 (1973): 355–74.
 
 \[Banerjee\] Chapter 12 and Chapter 15: Game Theory (especially section 12.3 on Nash Equilibrium), Asymmetric Information.
 
@@ -481,7 +481,7 @@ Why do educated people earn more?
 
 ### Required Reading
 
-\*Tyler, John H., Richard J. Murnane, and John B. Willett. "[Estimating the Labor Market Signaling Value of the GED](https://academic.oup.com/qje/article-abstract/115/2/431/1840448/Estimating-the-Labor-Market-Signaling-Value-of-the?redirectedFrom=fulltext)." *The Quarterly Journal of Economics* 115, no. 2 (2000): 431–68.
+\*Tyler, John H., Richard J. Murnane, and John B. Willett. "{{% resource_link "39ae3065-c316-4caa-8a15-aa26f82ddf15" "Estimating the Labor Market Signaling Value of the GED" %}}." *The Quarterly Journal of Economics* 115, no. 2 (2000): 431–68.
 
 \[Mastering\] Chapter 6: The Wages of Schooling.
 
@@ -498,15 +498,15 @@ Why do educated people earn more?
 
 ### Required Reading
 
-\*Agan, Amanda, and Sonja Starr. ["Ban the Box, Criminal Records, and Statistical Discrimination: A Field Experiment." (PDF)](https://law.yale.edu/sites/default/files/area/workshop/leo/leo16_starr.pdf) *University of Michigan Law and Economics Research Paper*, August 24, 2016.
+\*Agan, Amanda, and Sonja Starr. {{% resource_link "10b0c3a0-72d5-4e6e-8697-4fcc02d40f0f" "\"Ban the Box, Criminal Records, and Statistical Discrimination: A Field Experiment.\" (PDF)" %}} *University of Michigan Law and Economics Research Paper*, August 24, 2016.
 
 ### Recommended Reading
 
-Autor, David H., and David Scarborough. "[Does Job Testing Harm Minority Workers? Evidence from Retail Establishments](https://academic.oup.com/qje/article-lookup/doi/10.1162/qjec.2008.123.1.219)." *The Quarterly Journal of Economics* 123, no. 1 (2008): 219-277.
+Autor, David H., and David Scarborough. "{{% resource_link "e94cd4af-da63-4b0c-8646-079b1f2f8b08" "Does Job Testing Harm Minority Workers? Evidence from Retail Establishments" %}}." *The Quarterly Journal of Economics* 123, no. 1 (2008): 219-277.
 
-Doleac, Jennifer L., and Benjamin Hansen. "[Does 'Ban the Box' Help or Hurt Low-Skilled Workers? Statistical Discrimination and Employment Outcomes When Criminal Histories are Hidden](http://www.nber.org/papers/w22469)." *NBER* Working Paper No. 22469, 2016.
+Doleac, Jennifer L., and Benjamin Hansen. "{{% resource_link "8976ebe3-587e-45b5-86e0-8e812c783676" "Does 'Ban the Box' Help or Hurt Low-Skilled Workers? Statistical Discrimination and Employment Outcomes When Criminal Histories are Hidden" %}}." *NBER* Working Paper No. 22469, 2016.
 
-Bartik, Alexander W., and Scott Nelson. "[Credit Reports as Résumés: The Incidence of Pre-Employment Credit Screening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759560)." *MIT Department of Economics Graduate Student Research Paper 16–01*, March 2016.
+Bartik, Alexander W., and Scott Nelson. "{{% resource_link "162826ed-0f33-435b-8195-24100f2abad2" "Credit Reports as Résumés: The Incidence of Pre-Employment Credit Screening" %}}." *MIT Department of Economics Graduate Student Research Paper 16–01*, March 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
@@ -521,11 +521,11 @@ Bartik, Alexander W., and Scott Nelson. "[Credit Reports as Résumés: The Incid
 
 ### Required Reading
 
-Akerlof, George A. "[The Market for "Lemons": Quality Uncertainty and the Market Mechanism](http://www.jstor.org/stable/1879431)." *The Quarterly Journal of Economics* 84, no. 3 (1970): 488–500.
+Akerlof, George A. "{{% resource_link "fd9c9bbc-55bf-4115-bbe9-a1439ba560f2" "The Market for \"Lemons\": Quality Uncertainty and the Market Mechanism" %}}." *The Quarterly Journal of Economics* 84, no. 3 (1970): 488–500.
 
-\*Einav, Liran, and Amy Finkelstein. "[Selection in Insurance Markets: Theory and Empirics in Pictures](https://doi.org/10.1257/jep.25.1.115)." *Journal of Economic Perspectives* 25, no. 1 (2011): 115–38.
+\*Einav, Liran, and Amy Finkelstein. "{{% resource_link "c2587d99-7b71-4341-8a4d-c449c9efcc06" "Selection in Insurance Markets: Theory and Empirics in Pictures" %}}." *Journal of Economic Perspectives* 25, no. 1 (2011): 115–38.
 
-Cutler, David, and Sarah Reber. "[Paying for Health Insurance: The Trade-Off between Competition and Adverse Selection](https://doi.org/10.1162/003355398555649)." *The Quarterly Journal of Economics* 113, no. 2 (1998): 433–66.
+Cutler, David, and Sarah Reber. "{{% resource_link "dde1de52-806d-4ccf-a123-39d099d587ad" "Paying for Health Insurance: The Trade-Off between Competition and Adverse Selection" %}}." *The Quarterly Journal of Economics* 113, no. 2 (1998): 433–66.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 28
@@ -540,9 +540,9 @@ Cutler, David, and Sarah Reber. "[Paying for Health Insurance: The Trade-Off bet
 
 ### Required Reading
 
-Finkelstein, Amy, and Kathleen McGarry. "[Multiple Dimensions of Private Information: Evidence from the Long-Term Care Insurance Market](https://www.aeaweb.org/articles?id=10.1257/aer.96.4.938)." *American Economic Review* 96, no. 4 (2006): 938–58.
+Finkelstein, Amy, and Kathleen McGarry. "{{% resource_link "ffa9cd59-4bc2-4d1d-8789-8c0af0c94404" "Multiple Dimensions of Private Information: Evidence from the Long-Term Care Insurance Market" %}}." *American Economic Review* 96, no. 4 (2006): 938–58.
 
-\*Card, David E., Carlos Dobkin, et al. "[Does Medicare Save Lives?](https://academic.oup.com/qje/article/124/2/597/1905082/Does-Medicare-Save-Lives)" *The Quarterly Journal of Economics* 124, no. 2 (2009): 597–636.
+\*Card, David E., Carlos Dobkin, et al. "{{% resource_link "7aeaf23b-7eb0-4b50-95b6-c9b4438dcb27" "Does Medicare Save Lives?" %}}" *The Quarterly Journal of Economics* 124, no. 2 (2009): 597–636.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
